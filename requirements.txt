@@ -1,0 +1,6 @@
+requests==2.31.0
+python-dotenv==1.0.0
+aiohttp==3.9.1
+asyncio-contextmanager==1.0.0
+click==8.1.7
+colorama==0.4.6

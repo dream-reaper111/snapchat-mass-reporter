@@ -1,0 +1,7 @@
+# Example targets file
+# Add one username per line
+# Usernames must be 3-25 characters (alphanumeric, dots, underscores, hyphens)
+
+# example_user
+# test.account
+# spam_account_123
