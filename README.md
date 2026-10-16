@@ -1,6 +1,7 @@
 # Snapchat Mass Reporter
 
 A Python tool for batch reporting accounts and content on Snapchat.
+still working on this hunk of shit 
 
 ## Features
 
